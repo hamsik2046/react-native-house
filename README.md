@@ -9,5 +9,7 @@ Feel free to pull requests about this, u can also contact me directly via QQ(496
 
 #demo pic
 ![Aaron Swartz](https://github.com/hamsik2046/react-native-house/blob/master/1.png)
+![Aaron Swartz](https://github.com/hamsik2046/react-native-house/blob/master/2.png)
+![Aaron Swartz](https://github.com/hamsik2046/react-native-house/blob/master/3.png)
 
 
