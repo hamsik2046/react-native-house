@@ -1,7 +1,9 @@
 # react-native-house
 
-an ios project built with react-native 
+An ios project built with react-native, android version will come soon. 
 
-error on geolocation, still not fixed. 
+Error on geolocation, still not fixed. 
 
-feel free to pull requests about this.
+Feel free to pull requests about this, u can also contact me directly via QQ(496773689).
+
+
